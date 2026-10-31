@@ -67,4 +67,15 @@ Electron 33, React 19, TypeScript, Vite. Developed and tested against DeepSeek 4
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+**Source available, not open source.** Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
+
+You may read it, learn from it, modify it and share it for any noncommercial purpose: personal use, study, hobby projects, research, and use by schools, charities and public institutions.
+
+You may not sell it, bundle it into a paid product, or use it commercially.
+
+If you redistribute it, modified or not, you must pass on the required notice that credits Sonekks Chat and sonekkdev. That is not a courtesy request, it is part of the license terms, so the credit must travel with every copy and every fork. See [NOTICE](NOTICE).
+
+This applies to version 0.2.0 and later. Version 0.1.0 was published under the MIT license and stays under it, because that permission cannot be revoked.
+
+Required Notice: Copyright 2026 sonekkdev (https://github.com/sonekkdev/sonekks-chat)
+

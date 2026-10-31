@@ -1,10 +1,10 @@
 {
   "name": "sonekks-chat",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sonekks Chat: a clean, fast desktop AI chat and agent app for Windows",
   "main": "./out/main/index.js",
   "author": "sonekkdev",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "dev": "electron-vite dev",
     "build": "electron-vite build",
